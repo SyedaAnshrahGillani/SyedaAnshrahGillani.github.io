@@ -55,6 +55,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-- Email: syedaanshrah16@example.com
+- Email: syedaanshrah16@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/syeda-anshrah-gillani-788204263/)
 
