@@ -216,7 +216,9 @@ section{padding:90px 0;}
 
 /* TESTIMONIALS */
 #testimonials{background:var(--bg-surface);}
+.testimonials-slider{width:100%;}
 .testimonials-slider .swiper-wrapper{padding-bottom:44px;}
+.testimonials-slider .swiper-slide{width:100%;height:auto;}
 .testimonial-item{background:var(--bg-card);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border:1px solid var(--border);border-radius:var(--radius);padding:32px;margin:10px;position:relative;}
 .testimonial-item::before{content:'\201C';position:absolute;top:16px;left:24px;font-size:64px;font-family:Georgia,serif;color:var(--accent);opacity:0.25;line-height:1;}
 .testimonial-text{font-size:14px;color:var(--text-muted);line-height:1.8;margin-bottom:24px;padding-top:20px;font-style:italic;}
