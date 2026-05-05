@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0.5"/>
+    </linearGradient>
+  </defs>
+  <!-- Dark background -->
+  <rect width="32" height="32" rx="8" fill="#020617"/>
+  <!-- Vertical sparkle lobe -->
+  <path d="M16 4 C16.8 9.5 18.5 13.5 22 16 C18.5 18.5 16.8 22.5 16 28 C15.2 22.5 13.5 18.5 10 16 C13.5 13.5 15.2 9.5 16 4Z" fill="url(#g1)"/>
+  <!-- Horizontal sparkle lobe (thinner, semi-transparent) -->
+  <path d="M4 16 C9.5 15.2 13.5 13.5 16 10 C18.5 13.5 22.5 15.2 28 16 C22.5 16.8 18.5 18.5 16 22 C13.5 18.5 9.5 16.8 4 16Z" fill="url(#g2)"/>
+</svg>
